@@ -1,0 +1,15 @@
+{
+    "title": "lol",
+    "baseURL": "https:\/\/www.PGMOM.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759129",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "PGMOM.com"
+    }
+}
